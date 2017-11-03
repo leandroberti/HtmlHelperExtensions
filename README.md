@@ -65,7 +65,7 @@ with the HTML tag:
 
 You can install this extension direct from:
 
-[![Nuget](https://img.shields.io/badge/nuget-v1.0.0-blue.svg)](https://www.nuget.org/packages/LMB.HtmlHelperExtensions/)
+[![Nuget](https://img.shields.io/badge/nuget-v1.0.1-blue.svg)](https://www.nuget.org/packages/LMB.HtmlHelperExtensions/)
 
 Or instal with Package Manager Console
 
