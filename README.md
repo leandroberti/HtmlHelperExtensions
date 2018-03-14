@@ -1,6 +1,6 @@
 # HTML Helper Extensions
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/leandroberti)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](http://paypal.me/leandroberti)
 
 To make it easier to add content to a view, you can take advantage of something called an HTML Helper.
 An HTML Helper, typically, is a method that generates a string.
